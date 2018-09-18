@@ -1,0 +1,14 @@
+{
+  "name": "Facturacion",
+  "description": "Project",
+  "main": "FactureloTest.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6834.32215",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
